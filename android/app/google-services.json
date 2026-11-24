@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "94166395138",
+    "project_id": "unibite-001uz",
+    "storage_bucket": "unibite-001uz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94166395138:android:6d75111b97e4e68afafa1b",
+        "android_client_info": {
+          "package_name": "com.example.uni_bite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkB3UoeBV7JX26nC-TEa8xdAnsTLbATGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
